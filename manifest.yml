@@ -1,6 +1,6 @@
 declared-services:
   document-conversion-service:
-    label: document_conversion
+    label: document_conversion_sai_charan
     plan: standard
 applications:
 - services:
